@@ -5,3 +5,6 @@ Add headers to index.md file for better structure
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
